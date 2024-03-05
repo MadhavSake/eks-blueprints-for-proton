@@ -2,6 +2,6 @@
   "*": {
     "role": "arn:aws:iam::656096645154:role/Github",
     "region": "us-east-1",
-    "state_bucket":"protons2bucket"
+    "state_bucket":"protons4bucket"
   }
 }
